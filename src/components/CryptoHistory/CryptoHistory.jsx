@@ -1,4 +1,4 @@
-import { formatDate } from '../../helpers/formatDate';
+import { formatDate } from '../../helpers/formatDateToNow';
 import style from './CryptoHistory.module.css';
 
 const CryptoHistory = ({ items }) => {
